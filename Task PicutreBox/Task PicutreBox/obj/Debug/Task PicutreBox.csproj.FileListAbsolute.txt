@@ -1,0 +1,10 @@
+F:\Revion before exam\Task PicutreBox\Task PicutreBox\bin\Debug\Task PicutreBox.exe.config
+F:\Revion before exam\Task PicutreBox\Task PicutreBox\bin\Debug\Task PicutreBox.exe
+F:\Revion before exam\Task PicutreBox\Task PicutreBox\bin\Debug\Task PicutreBox.pdb
+F:\Revion before exam\Task PicutreBox\Task PicutreBox\obj\Debug\Task PicutreBox.csproj.AssemblyReference.cache
+F:\Revion before exam\Task PicutreBox\Task PicutreBox\obj\Debug\Task_PicutreBox.Form1.resources
+F:\Revion before exam\Task PicutreBox\Task PicutreBox\obj\Debug\Task_PicutreBox.Properties.Resources.resources
+F:\Revion before exam\Task PicutreBox\Task PicutreBox\obj\Debug\Task PicutreBox.csproj.GenerateResource.cache
+F:\Revion before exam\Task PicutreBox\Task PicutreBox\obj\Debug\Task PicutreBox.csproj.CoreCompileInputs.cache
+F:\Revion before exam\Task PicutreBox\Task PicutreBox\obj\Debug\Task PicutreBox.exe
+F:\Revion before exam\Task PicutreBox\Task PicutreBox\obj\Debug\Task PicutreBox.pdb

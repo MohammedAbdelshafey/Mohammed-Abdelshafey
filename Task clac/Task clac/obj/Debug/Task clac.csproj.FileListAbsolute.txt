@@ -1,0 +1,10 @@
+F:\Revion before exam\Task clac\Task clac\bin\Debug\Task clac.exe.config
+F:\Revion before exam\Task clac\Task clac\bin\Debug\Task clac.exe
+F:\Revion before exam\Task clac\Task clac\bin\Debug\Task clac.pdb
+F:\Revion before exam\Task clac\Task clac\obj\Debug\Task clac.csproj.AssemblyReference.cache
+F:\Revion before exam\Task clac\Task clac\obj\Debug\Task_clac.Form1.resources
+F:\Revion before exam\Task clac\Task clac\obj\Debug\Task_clac.Properties.Resources.resources
+F:\Revion before exam\Task clac\Task clac\obj\Debug\Task clac.csproj.GenerateResource.cache
+F:\Revion before exam\Task clac\Task clac\obj\Debug\Task clac.csproj.CoreCompileInputs.cache
+F:\Revion before exam\Task clac\Task clac\obj\Debug\Task clac.exe
+F:\Revion before exam\Task clac\Task clac\obj\Debug\Task clac.pdb
